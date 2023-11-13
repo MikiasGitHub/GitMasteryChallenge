@@ -8,3 +8,4 @@ Commit 2
 Commit 3
 >>>>>>> feature-branch
 Collaborative-branch commit 1
+Collaborative-branch commit 2
